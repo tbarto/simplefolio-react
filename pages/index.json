@@ -24,7 +24,7 @@
     "projects": [
       {
         "title": "This personal website",
-        "description": "This is a website I deployed from a React template shared by a creative developer, who is linked at bottom. I deployed it to AWS S3 as a static website served by a Cloudfront distribution configured to use an SSL/TLS certificate.",
+        "description": "This is a website I deployed from a React template forked from a creative developer, who is linked at bottom. I deployed it to AWS S3 as a static website served by a Cloudfront distribution configured to use an SSL/TLS certificate.",
         "url": "https://itsme-tom.com",
         "github": "https://github.com/tbarto/simplefolio-react",
         "image": "/project1-arch.png"
