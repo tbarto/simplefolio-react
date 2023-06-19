@@ -7,21 +7,17 @@
 		{
 			"title": "Projects",
 			"url": "http://www.example.com/portfolio"
-		},
-		{
-			"title": "Contact",
-			"url": "http://www.example.com/contact"
 		}
 	],
   "hero": {
-    "name": "Your Name",
-    "subtitle": "I'm the Unknown Developer."
+    "name": "Tom Barto",
+    "subtitle": "I'm a Developer."
   },
   "about": {
     "title": "About me",
     "image": "/placeholder.png",
-    "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
-    "secondary": "Extra Information about you! like hobbies and your goals."
+    "primary": "Hello! I'm currently building APIs in the financial industry.",
+    "secondary": "In my free time, you can find me camping, at a coffee shop, at a beach, or shopping yard sales with my beautiful girlfriend."
   },
   "projects": {
     "title": "Projects",
@@ -55,8 +51,8 @@
     "formId": "your-form-id"
   },
   "footer": {
-		"linkedin": "",
+		"linkedin": "https://www.linkedin.com/in/tombarto/",
 		"twitter": "",
-		"github": ""
+		"github": "https://github.com/tbarto"
 	}
 }
